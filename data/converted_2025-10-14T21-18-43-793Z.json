@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Rohit Prasad",
+    "age": 35,
+    "address": {
+      "line1": "A-563 Rakshak Society",
+      "line2": "New Pune Road",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additional_info": {
+      "gender": "male",
+      "email": "rohitp@example.com",
+      "hobbies": {
+        "sports": "cricket",
+        "music": "guitar"
+      }
+    }
+  },
+  {
+    "name": "Anita Sharma",
+    "age": 22,
+    "address": {
+      "line1": "Flat 5",
+      "line2": "MG Road",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "additional_info": {
+      "gender": "female",
+      "email": "anita.sharma@example.com",
+      "hobbies": {
+        "sports": "badminton",
+        "music": "piano"
+      }
+    }
+  },
+  {
+    "name": "John O'Connor",
+    "age": 45,
+    "address": {
+      "line1": "12 King's St",
+      "line2": null,
+      "city": "London",
+      "state": "England"
+    },
+    "additional_info": {
+      "gender": "male",
+      "email": "john.oconnor@example.com",
+      "hobbies": {
+        "sports": "football",
+        "music": "drums"
+      }
+    }
+  },
+  {
+    "name": "Sneha Patil",
+    "age": 19,
+    "address": {
+      "line1": "Plot 25",
+      "line2": "Riverside",
+      "city": "Nashik",
+      "state": "Maharashtra"
+    },
+    "additional_info": {
+      "gender": "female",
+      "email": "sneha19@example.com",
+      "hobbies": {
+        "sports": "basketball",
+        "music": "violin"
+      }
+    }
+  },
+  {
+    "name": "Ramesh Kumar",
+    "age": 55,
+    "address": {
+      "line1": "88/2 Green Park",
+      "line2": null,
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    "additional_info": {
+      "gender": "male",
+      "email": "rameshk@example.com",
+      "hobbies": {
+        "sports": "chess",
+        "music": "flute"
+      }
+    }
+  },
+  {
+    "name": "Meena Joshi",
+    "age": 33,
+    "address": {
+      "line1": "Flat 10C",
+      "line2": "High Street",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additional_info": {
+      "gender": "female",
+      "email": "meena.j@example.com",
+      "hobbies": {
+        "sports": "swimming",
+        "music": "singing"
+      }
+    }
+  },
+  {
+    "name": "Karan Verma",
+    "age": 61,
+    "address": {
+      "line1": "House 7",
+      "line2": "Model Town",
+      "city": "Ludhiana",
+      "state": "Punjab"
+    },
+    "additional_info": {
+      "gender": "male",
+      "email": "karanv@example.com",
+      "hobbies": {
+        "sports": "tennis",
+        "music": "guitar"
+      }
+    }
+  },
+  {
+    "name": "Priya Nair",
+    "age": 28,
+    "address": {
+      "line1": "Building 5",
+      "line2": "Sector 9",
+      "city": "Bangalore",
+      "state": "Karnataka"
+    },
+    "additional_info": {
+      "gender": "female",
+      "email": "priya.nair@example.com",
+      "hobbies": {
+        "sports": "cycling",
+        "music": "dance"
+      }
+    }
+  },
+  {
+    "name": "Amit Desai",
+    "age": 40,
+    "address": {
+      "line1": "Flat 12",
+      "line2": "Camp Area",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additional_info": {
+      "gender": "male",
+      "email": "amitd@example.com",
+      "hobbies": {
+        "sports": "football",
+        "music": "tabla"
+      }
+    }
+  },
+  {
+    "name": "Sonal Patel",
+    "age": 17,
+    "address": {
+      "line1": "Plot 8",
+      "line2": "City Center",
+      "city": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    "additional_info": {
+      "gender": "female",
+      "email": "sonalp@example.com",
+      "hobbies": {
+        "sports": "badminton",
+        "music": "flute"
+      }
+    }
+  },
+  {
+    "name": "Rajesh Gupta",
+    "age": 64,
+    "address": {
+      "line1": "Flat 20",
+      "line2": "Marine Lines",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "additional_info": {
+      "gender": "male",
+      "email": "rajesh.g@example.com",
+      "hobbies": {
+        "sports": "chess",
+        "music": "sitar"
+      }
+    }
+  },
+  {
+    "name": "Neha Rao",
+    "age": 24,
+    "address": {
+      "line1": "House 14",
+      "line2": "Garden View",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    "additional_info": {
+      "gender": "female",
+      "email": "neha.rao@example.com",
+      "hobbies": {
+        "sports": "basketball",
+        "music": "piano"
+      }
+    }
+  },
+  {
+    "name": "Arjun Mehta",
+    "age": 42,
+    "address": {
+      "line1": "Apartment 3",
+      "line2": "Link Road",
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    "additional_info": {
+      "gender": "male",
+      "email": "arjun.m@example.com",
+      "hobbies": {
+        "sports": "cricket",
+        "music": "flute"
+      }
+    }
+  },
+  {
+    "name": "Kavita Shinde",
+    "age": 38,
+    "address": {
+      "line1": "Flat 5",
+      "line2": "Park Avenue",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additional_info": {
+      "gender": "female",
+      "email": "kavita.s@example.com",
+      "hobbies": {
+        "sports": "cycling",
+        "music": "singing"
+      }
+    }
+  },
+  {
+    "name": "Mohit Chopra",
+    "age": 59,
+    "address": {
+      "line1": "Plot 33",
+      "line2": "Highway Road",
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    "additional_info": {
+      "gender": "male",
+      "email": "mohit.c@example.com",
+      "hobbies": {
+        "sports": "tennis",
+        "music": "violin"
+      }
+    }
+  },
+  {
+    "name": "Ritika Deshmukh",
+    "age": 21,
+    "address": {
+      "line1": "House 9",
+      "line2": "Riverside",
+      "city": "Nashik",
+      "state": "Maharashtra"
+    },
+    "additional_info": {
+      "gender": "female",
+      "email": "ritika.d@example.com",
+      "hobbies": {
+        "sports": "badminton",
+        "music": "guitar"
+      }
+    }
+  },
+  {
+    "name": "Suresh Yadav",
+    "age": 27,
+    "address": {
+      "line1": "Flat 14C",
+      "line2": "Main Street",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh"
+    },
+    "additional_info": {
+      "gender": "male",
+      "email": "suresh.y@example.com",
+      "hobbies": {
+        "sports": "cricket",
+        "music": "flute"
+      }
+    }
+  },
+  {
+    "name": "Pooja Kulkarni",
+    "age": 48,
+    "address": {
+      "line1": "Plot 19",
+      "line2": "MG Road",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "additional_info": {
+      "gender": "female",
+      "email": "pooja.k@example.com",
+      "hobbies": {
+        "sports": "swimming",
+        "music": "tabla"
+      }
+    }
+  },
+  {
+    "name": "Dhruv Malhotra",
+    "age": 16,
+    "address": {
+      "line1": "House 11",
+      "line2": "Park Lane",
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    "additional_info": {
+      "gender": "male",
+      "email": "dhruv.m@example.com",
+      "hobbies": {
+        "sports": "basketball",
+        "music": "guitar"
+      }
+    }
+  },
+  {
+    "name": "Leena George",
+    "age": 70,
+    "address": {
+      "line1": "Flat 22",
+      "line2": "Old Market",
+      "city": "Kochi",
+      "state": "Kerala"
+    },
+    "additional_info": {
+      "gender": "female",
+      "email": "leena.g@example.com",
+      "hobbies": {
+        "sports": "walking",
+        "music": "singing"
+      }
+    }
+  }
+]
